@@ -1,6 +1,6 @@
-package interview;
+package interview.HW1;
 
-public class Circle implements Figure{
+public class Square implements Figure{
     @Override
     public double area() {
         return 0;

@@ -1,4 +1,6 @@
-package interview;
+package interview.HW1;
+
+import java.util.ArrayList;
 
 public class Main {
 
@@ -9,6 +11,7 @@ public class Main {
                 .setLie(false);
 
         System.out.println(test);
+
     }
 
 }
